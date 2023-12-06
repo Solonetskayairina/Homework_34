@@ -1,0 +1,29 @@
+    * {
+        margin: 0;
+        padding: 0;
+    }
+
+    body {
+        font-size: 16px;
+        font-weight: 500;
+        font-family: 'Montserrat', sans-serif;
+        margin-left: 20px ;
+    }
+
+    h1 {
+        color: coral;
+    }
+
+    th{
+        color: purple;
+        font-size: 1.5em;
+        padding: 12px;
+    }
+
+    td {
+        border: 2px solid rgba(128, 0, 128, 0.5);
+        padding: 8px;
+        text-align: center;
+        background: cornsilk;
+        color: coral;
+    }
